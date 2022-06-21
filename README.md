@@ -2,6 +2,7 @@
 # Hinode Yacht Robbery for FiveM
 
 Hi there! This is a yacht robbery script for esx servers. It is just a modification of esx_yacht (owner made it non-public.). 
+[Preview](https://www.youtube.com/watch?v=rwOufNhzRjs&ab_channel=HinodeStudios)
 
 
 
